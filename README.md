@@ -1,4 +1,7 @@
 ### Hi there 👋
+En este perfil realizo todos los ejercicios y pruebas académicas.
+
+- 💬 wilmer@uniamazonia.edu.co ...
 
 <!--
 **wilmernet/wilmernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
